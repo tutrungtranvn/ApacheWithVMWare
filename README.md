@@ -21,3 +21,5 @@
    >
 ## *2. INSTALLATION*
 ### I wrote a detailed file on how to install Apache Hadoop. [Click here for download](https://drive.google.com/file/d/1Ypmm9Yucy9Ty4b1qEikYUFdlerQOTBxJ/view?usp=sharing)
+
+# ***THANKS FOR WATCHING. HOPE IT HELP YOU !*** 
